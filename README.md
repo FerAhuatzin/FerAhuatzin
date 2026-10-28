@@ -1,7 +1,5 @@
 # About Me:
-Hi my name is Fernando Ahuatzin Computer systems engineer,
-- I'm passionate about Fullstack engineering!
-- I'm currently learning about AI agents :)
+Hi my name is Fernando Ahuatzin Computer systems engineer
 
 
 ## Socials:
